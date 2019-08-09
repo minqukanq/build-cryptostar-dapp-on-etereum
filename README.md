@@ -140,6 +140,6 @@ Compiling your contracts...
 * [Truffle](https://truffleframework.com/) v5.0.26 - A development framework for Ethereum.
 * [openzeppelin-solidity]() v2.1.2 - Library for secure smart contract development.
 
-## Authors
+## Author
 
 * **Mingu Kang** - [Github](https://github.com/minqukanq)
