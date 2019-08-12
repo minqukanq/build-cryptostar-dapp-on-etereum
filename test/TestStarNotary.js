@@ -8,7 +8,7 @@ contract('StarNotary', (accs) => {
     owner = accounts[0];
 });
 
-it('can reate a Star', async() => {
+it('can create a Star', async() => {
     let tokenId = 1;
     let instance = await StarNotary.deployed();
     await instance.createStar('Awesome Star!', tokenId, {from: accounts[0]})
